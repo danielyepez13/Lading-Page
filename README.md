@@ -1,4 +1,4 @@
-# Project Name
+# Landing Page
 Landing Page with FlexBox for Odin Project
 
 ## Live Demo
